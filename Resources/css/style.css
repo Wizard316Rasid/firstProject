@@ -3,11 +3,17 @@ a{
   color:#f70505;
 }
 .Everything{
+  font-family:serif;
   color: white;
 }
 h1 {
   text-align: center;
+  text-size:3rem;
+
 }
 .white-links{
   color: white;
+}
+h1 {
+  font-family:sans-serif;
 }
