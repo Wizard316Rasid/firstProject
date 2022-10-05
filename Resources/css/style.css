@@ -1,19 +1,70 @@
 * {background-color: black;}
+
+.songs{
+  color: white;
+  text-align: center;
+}
+
+.popular{
+  padding-left:20px;
+  font-family: monospace;
+}
+
+#menuitems{
+  font-family:monospace;
+  border:15px;
+}
+
+
+#channel{
+  padding-top: 30px;
+}
+
+.menu{
+ font-size: 1.2rem;
+ padding-left: 20px;
+}
+
 a{
+  text-decoration: none;
+  font-family:inherit;monospace;
+  font-size:1.3rem;
+  text-decoration: underline;
   color:#f70505;
 }
-.Everything{
-  font-family:serif;
-  color: white;
-}
-h1 {
-  text-align: center;
-  text-size:3rem;
 
+h1 {
+  font-family:monospace;
+  font-size:2.5rem;
+  text-align:center;
+  padding:20px;
 }
-.white-links{
+
+h2{
+  font-family: monospace;
+  font-size:1.8rem;
+  padding:20px
+}
+
+p{
+  font-family: monospace;
+  font-size:1.3rem;
+  padding:20px;
+}
+img{
+  padding:20px
+}
+
+video{
+  padding: 20px;
+}
+
+.white{
+  font-family: monospace;
   color: white;
 }
-h1 {
-  font-family:sans-serif;
-}
+
+#metallica{
+  padding-left:20px;
+  font-family: monospace;
+  font-size:1.5rem;
